@@ -1,0 +1,109 @@
+body
+{
+	background-color: #008B8B
+}
+
+.thumbnail
+{
+	background-color: #FFFFFF;
+	height: 300px;
+}
+
+.thumbnail img {
+    max-height: 150px;
+}
+
+.price {
+    font-weight:bold;
+    font-size: 16px;
+}
+
+.bt
+{
+	margin-top: -7px;
+}
+
+.bt1
+{
+	margin-top: -7px;
+	margin-left: 20px;
+}
+
+.badge
+{
+	width: 25px;
+	height: 20px;
+	text-align: center center;
+	color: black;
+	font-size: 15px; 
+}
+
+.quan
+{
+	position: absolute; 
+	margin-left: 410px;
+	margin-top: -8px;
+
+}
+
+.newAcc a
+{
+	color: white;
+}
+
+.haveAcc
+{
+	margin-left: -3px;
+	color: white;
+}
+
+a:hover
+{
+	color:white;
+}
+
+.err
+{
+	color: red;
+}
+
+.big
+{
+	width: 80px;
+	height: 27px;
+	text-align: center center;
+	color: black;
+	font-size: 15px; 
+	margin-top: -2px;
+}
+
+.emp
+{
+	margin-left: -10px;
+}
+
+
+.chk
+{
+	margin-right: -10px;
+}
+
+.sa
+{
+	color: red;
+}
+
+.bef
+{
+	text-decoration: line-through;
+}
+
+.foot
+{
+	text-align: center;
+	font-size: 20px;
+	font-style: bold;
+	color: white;
+	margin-bottom: 10px;
+}
+
